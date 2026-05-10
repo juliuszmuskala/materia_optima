@@ -1,5 +1,7 @@
 # Materia optima
 
+**This is a winning entry in [Flutter Puzzle Hack](https://devpost.com/software/materia-optima).**
+
 ![Sample game image](sample_image.png)
 
 Materia optima is a game based on the concept of slide puzzle with an alchemical twist. Player creates various materiae (alchemical ingredients) by arranging tiles and discovers the game's plot.
